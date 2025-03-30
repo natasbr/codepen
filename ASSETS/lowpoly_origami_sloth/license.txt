@@ -1,0 +1,8 @@
+Model Information:
+* title:	Lowpoly origami sloth
+* source:	https://sketchfab.com/3d-models/lowpoly-origami-sloth-b3198e80f5404659829f6c2aa6336fdd
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

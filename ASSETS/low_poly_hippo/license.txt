@@ -1,0 +1,8 @@
+Model Information:
+* title:	Low Poly Hippo
+* source:	https://sketchfab.com/3d-models/low-poly-hippo-a9bf618eabdb45c1b366827839ef6530
+* author:	14junk (https://sketchfab.com/14junk)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

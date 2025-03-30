@@ -1,0 +1,8 @@
+Model Information:
+* title:	Self Portrait
+* source:	https://sketchfab.com/3d-models/self-portrait-d20903565e8a4dbe8d67eb78ee0a8fed
+* author:	Austin Beaulier (https://sketchfab.com/Austin.Beaulier)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

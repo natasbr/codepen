@@ -1,0 +1,8 @@
+Model Information:
+* title:	Animated T-Rex
+* source:	https://sketchfab.com/3d-models/animated-t-rex-12d68c0009614dc3aff7e68c901185bd
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

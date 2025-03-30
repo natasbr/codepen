@@ -1,0 +1,8 @@
+Model Information:
+* title:	Low Poly Farmer Man
+* source:	https://sketchfab.com/3d-models/low-poly-farmer-man-08ccb9a009a34ca5916866149e5b51a3
+* author:	chroma3d (https://sketchfab.com/vendol21)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

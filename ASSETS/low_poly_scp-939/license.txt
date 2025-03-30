@@ -1,0 +1,8 @@
+Model Information:
+* title:	Low Poly SCP-939
+* source:	https://sketchfab.com/3d-models/low-poly-scp-939-53a05ab65b0c41b19e2e7e7781da0fe6
+* author:	NECROMON (https://sketchfab.com/NECROMON)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
